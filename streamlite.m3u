@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="xromcigcpnv" tvg-name="xROMTv InFo" tvg-logo="https://scontent.fmnl31-1.fna.fbcdn.net/v/t39.30808-6/480787123_611358948197892_9171446269416259981_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEpmPZ5LhNQBCnfqwAH9Skocp7HqMpK7xFynseoykrvEV47EwGsiENvjGKZI12TOYjVtwXNPyGb8QwMPYZkoZJv&_nc_ohc=7yyvEwS9Tz4Q7kNvwE-DnVs&_nc_oc=Adnd_eJld98C2_Zm-fRApnJhY0YPoIvhaa-490arzFyDHrZp2jAgAQ9dJcGkYLaKMeibJvjLthiP48TL23Vjn3Dn&_nc_zt=23&_nc_ht=scontent.fmnl31-1.fna&_nc_gid=3ocI-XFzTN1yF9YsDK1fRw&oh=00_AfOFgefIsMBqSBQLn69At-4N9wn4N7qcn-Zw0NpE80K6Xw&oe=68600E4B" group-title="🇵🇭 CONV-CIG MOVIES",STREAM LITE
+#EXTINF:-1 tvg-id="Stream Lite" tvg-name="Stream Lite" tvg-logo="https://scontent.fmnl31-1.fna.fbcdn.net/v/t39.30808-6/480787123_611358948197892_9171446269416259981_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEpmPZ5LhNQBCnfqwAH9Skocp7HqMpK7xFynseoykrvEV47EwGsiENvjGKZI12TOYjVtwXNPyGb8QwMPYZkoZJv&_nc_ohc=7yyvEwS9Tz4Q7kNvwE-DnVs&_nc_oc=Adnd_eJld98C2_Zm-fRApnJhY0YPoIvhaa-490arzFyDHrZp2jAgAQ9dJcGkYLaKMeibJvjLthiP48TL23Vjn3Dn&_nc_zt=23&_nc_ht=scontent.fmnl31-1.fna&_nc_gid=3ocI-XFzTN1yF9YsDK1fRw&oh=00_AfOFgefIsMBqSBQLn69At-4N9wn4N7qcn-Zw0NpE80K6Xw&oe=68600E4B" group-title="🇵🇭 CONV-CIG MOVIES",STREAM LITE
 https://github.com/deepwebdumagiti/silver-chainsaw/raw/refs/heads/main/0529%20(2).mp4
-
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
