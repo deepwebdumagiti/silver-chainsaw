@@ -76,11 +76,11 @@ http://143.44.136.110:6910/001/2/ch00000090990000001105/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="hgtvph1" tvg-name="HGTV ." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="International",HGTV .
 http://143.44.136.113:6910/001/2/ch00000090990000001162/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Kids",Nick HD+
-http://103.68.28.58:5001/live/1226.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Kids",Nick Jr. Pluto
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 
 #EXTINF:-1 tvg-id="NickelodeonAsia.sg" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Kids",Nickelodeon Asia (720p)
-http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -108,9 +108,9 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="kids",Cartoon Network
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+https://dvrfl07.bozztv.com/astv-cartoonnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Kids",Disney Channel
-https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+https://fl5.moveonjoy.com/DISNEY/index.m3u8
 
 #EXTM3U billed-msg="STREAM LITE LIVE TV"
