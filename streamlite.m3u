@@ -116,4 +116,7 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",StreamLite
+https://github.com/deepwebdumagiti/silver-chainsaw/raw/refs/heads/main/0529%20(2).mp4
+
 #EXTM3U billed-msg="STREAM LITE LIVE TV"
