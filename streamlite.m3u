@@ -113,4 +113,7 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Kids"
 https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
+#EXTINF:-1 tvg-id="A2Z" tvg-name="A2Z" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",A2Z
+http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #EXTM3U billed-msg="STREAM LITE LIVE TV"
