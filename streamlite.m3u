@@ -43,17 +43,17 @@ http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cinemoph" tvg-name="CINEMO PHIL." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",CINEMO PHILIPPINES .
+#EXTINF:-1 tvg-id="cinemoph" tvg-name="CINEMO PHIL." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Movies",CINEMO PHILIPPINES .
 http://143.44.136.110:6910/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",CINEMAONE PHILIPPINES .
+#EXTINF:-1 tvg-id="cinemaoneph" tvg-name="CINEMAONE PHIL." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Movies",CINEMAONE PHILIPPINES .
 http://143.44.136.110:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="vivacinema1" tvg-name="VIVA CINEMA ." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",VIVA CINEMA .
+#EXTINF:-1 tvg-id="vivacinema1" tvg-name="VIVA CINEMA ." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Movies",VIVA CINEMA .
 http://143.44.136.113:6910/001/2/ch00000090990000001079/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -84,7 +84,7 @@ http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="ptv41ph" tvg-name="PTV4 ." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",PTV4 .
+#EXTINF:-1 tvg-id="ptv41ph" tvg-name="PTV4 ." tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",PTV4 .
 http://143.44.136.113:6910/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -115,5 +115,73 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="A2Z" tvg-name="A2Z" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",A2Z
 http://143.44.136.113:6910/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV 5" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",TV 5
+http://143.44.136.111:6910/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="myx" tvg-name="MYX" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",MYX
+http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="anc" tvg-name="ANC" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",ANC
+http://143.44.136.110:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="UNTV" tvg-name="UNTV" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",UNTV
+http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="UNTV" tvg-name="UNTV" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",UNTV
+http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="oneph" tvg-name="ONE PH" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",ONE PH
+http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="onenews" tvg-name="ONE NEWS" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",ONE NEWS
+http://143.44.136.110:6910/001/2/ch00000090990000001084/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="tapflix" tvg-name="TAP ACTION FLIX" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Movies",TAP ACTION FLIX
+http://143.44.136.110:6910/001/2/ch00000090990000001305/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="tapmovies" tvg-name="TAP MOVIES" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Movies",TAP MOVIES
+http://143.44.136.110:6910/001/2/ch00000090990000001304/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="tapsports" tvg-name="TAP SPORTS" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Sports",TAP SPORTS
+http://143.44.136.110:6910/001/2/ch00000090990000001151/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="tapedge" tvg-name="TAP EDGE" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",TAP EDGE
+http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Movies",AXN
+http://143.44.136.110:6910/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="RPTV" tvg-name="RPTV" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Local",RPTV
+http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="EUROSPORT" tvg-name="EURO SPORT" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Sports",EURO SPORT
+http://143.44.136.112:6910/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="SOLARSPORTS" tvg-name="SOLAR SPORTS" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Sports",SOLAR SPORTS
+http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="PREMIERFOOTBALL" tvg-name="PREMIER FOOTBALL" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Sports",PREMIER FOOTBALL
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="PREMIERSPORTS" tvg-name="PREMIER SPORTS" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="Sports",PREMIER SPORTS
+http://143.44.136.110:6910/001/2/ch00000090990000001135/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="DISCOVERYASIA" tvg-name="DISCOVERY ASIA" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="International",DISCOVERY ASIA
+http://143.44.136.110:6910/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="International",DISCOVERY CHANNEL
+http://143.44.136.110:6910/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER TV" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="International",WARNER TV
+http://143.44.136.110:6910/001/2/ch00000090990000001096/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",FOX NEWS
+http://143.44.136.110:6910/001/2/ch00000090990000001105/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-id="EURONEWS" tvg-name="EURO NEWS" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="News",EURO NEWS
+http://143.44.136.110:6910/001/2/ch00000090990000001336/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+
 
 #EXTM3U billed-msg="STREAM LITE LIVE TV"
