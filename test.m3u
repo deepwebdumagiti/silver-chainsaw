@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",StreamLite
+http://136.239.159.18:6610/001/2/ch00000090990000001088//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177596420250831092329001924&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.li
