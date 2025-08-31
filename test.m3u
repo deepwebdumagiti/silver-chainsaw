@@ -6,23 +6,20 @@ http://161.49.17.2:6610/001/2/ch00000090990000001248/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",TV 5
 http://161.49.17.2:6610/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 3
-http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 4
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",GMA
 http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 5
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",GTV
 http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 5
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",MYX
 http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 6
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",KPOP HP
 http://161.49.17.2:6610/001/2/ch00000090990000001152/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 7
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",ANC HD
 http://161.49.17.2:6610/001/2/ch00000090990000001216/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 8
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Kapamilya Channel HD
 http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
