@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",StreamLite
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://136.239.159.18:9443/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=http://136.239.159.18:6610/widevine/?deviceId=90:99:00:00:10:88
 http://136.239.159.18:6610/001/2/ch00000090990000001088//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177596420250831092329001924&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.li
