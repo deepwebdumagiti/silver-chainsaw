@@ -1,10 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",StreamLite
-http://136.239.159.18:6610/001/2/ch00000090990000001088//manifest.mpd?JITPDRMType=Widevine&RateHigh=25600000&IASHttpSessionId=OTT177596420250831092329001924&%5CAuthInfo=d85e93&JITPMediaType=DASH&virtualDomain=001.li
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",TEST
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",KAPAMILYA
 http://161.49.17.2:6610/001/2/ch00000090990000001248/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",TEST 2
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",TV 5
 http://161.49.17.2:6610/001/2/ch00000090990000001088/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 3
+http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 4
+http://161.49.17.2:6610/001/2/ch00000090990000001093/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 5
+http://161.49.17.2:6610/001/2/ch00000090990000001143/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 5
+http://161.49.17.2:6610/001/2/ch00000090990000001252/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 6
+http://161.49.17.2:6610/001/2/ch00000090990000001152/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 7
+http://161.49.17.2:6610/001/2/ch00000090990000001216/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-1 tvg-name="StreamLite" tvg-logo="https://i.imgur.com/2iW7KDY.png" group-title="STREAM LITE LIVE TV",Test 8
+http://161.49.17.2:6610/001/2/ch00000090990000001286/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
